@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Nishantkumar7.Nishantkumar7" />
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nishant+Kumar!;" />
 </h1>
@@ -14,7 +16,7 @@
 
 👯 I’m looking to collaborate on **Exciting Projects**
 
-📫 How to reach me: (niskum2002@gmail.com)
+📫 How to reach me: niskum2002@gmail.com
 
  </div>
 
@@ -25,7 +27,7 @@
   <a href="https://www.linkedin.com/in/nishant-kumar-2235b21a4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/Nishantkumar7" target="_blank">
+  <a href="https://nishantkumar7.github.io/nishantportfolio/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
